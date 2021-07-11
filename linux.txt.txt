@@ -1,0 +1,13 @@
+agila@LAPTOP-BBVGP9J1 MINGW64 ~
+$ pwd
+/c/Users/agila
+
+agila@LAPTOP-BBVGP9J1 MINGW64 ~
+$ cd /c/users/agila/sample1
+
+agila@LAPTOP-BBVGP9J1 MINGW64 /c/users/agila/sample1
+$ ls
+test.txt
+
+agila@LAPTOP-BBVGP9J1 MINGW64 /c/users/agila/sample1
+$
